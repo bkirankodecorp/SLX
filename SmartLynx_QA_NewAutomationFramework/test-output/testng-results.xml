@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2110085" started-at="2018-02-09T08:49:15Z" finished-at="2018-02-09T09:24:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2110085" started-at="2018-02-09T08:49:15Z" finished-at="2018-02-09T09:24:25Z">
+      <class name="Skybitz_Maintanance_MainScripts.Truck">
+        <test-method status="PASS" signature="Open_Browser()[pri:0, instance:Skybitz_Maintanance_MainScripts.Truck@6a4f787b]" name="Open_Browser" is-config="true" duration-ms="9992" started-at="2018-02-09T14:19:15Z" finished-at="2018-02-09T14:19:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Open_Browser -->
+        <test-method status="PASS" signature="Main_Functionalities()[pri:0, instance:Skybitz_Maintanance_MainScripts.Truck@6a4f787b]" name="Main_Functionalities" duration-ms="2100079" started-at="2018-02-09T14:19:25Z" finished-at="2018-02-09T14:54:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Main_Functionalities -->
+        <test-method status="PASS" signature="Quit_Browser()[pri:0, instance:Skybitz_Maintanance_MainScripts.Truck@6a4f787b]" name="Quit_Browser" is-config="true" duration-ms="0" started-at="2018-02-09T14:54:25Z" finished-at="2018-02-09T14:54:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Quit_Browser -->
+      </class> <!-- Skybitz_Maintanance_MainScripts.Truck -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
